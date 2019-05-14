@@ -2,4 +2,8 @@ Random Text
 New Text
 New Changes
 New Changes on Github
+<<<<<<< HEAD
 New changes on Jake 2
+=======
+New Changes on Jake 1
+>>>>>>> 4e449a2c0051b8172380722bbcce521106309360
